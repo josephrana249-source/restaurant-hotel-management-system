@@ -1,0 +1,19 @@
+# Logs
+api/logs/
+*.log
+
+# M-Pesa cache
+api/mpesa_token_cache.json
+
+# Temporary files
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Database exports
+*.sql
+
+# System files
+.vscode/
+.idea/

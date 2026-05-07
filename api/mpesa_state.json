@@ -1,0 +1,68 @@
+{
+    "ws_CO_13042026115408626111307585": {
+        "status": "Success",
+        "createdAt": "2026-04-13T10:54:09+02:00",
+        "amount": 1,
+        "phone": "254111307585",
+        "lastQueried": 1776070460,
+        "resultCode": 0,
+        "resultDesc": "The service request is processed successfully."
+    },
+    "ws_CO_19042026150429617757227470": {
+        "status": "Cancelled",
+        "createdAt": "2026-04-19T14:04:32+02:00",
+        "amount": 1,
+        "phone": "254757227470",
+        "lastQueried": 1776600293,
+        "resultCode": 1032,
+        "resultDesc": "Request cancelled by user."
+    },
+    "ws_CO_19042026152401419111307585": {
+        "status": "Failed",
+        "createdAt": "2026-04-19T14:24:04+02:00",
+        "amount": 25400,
+        "phone": "254111307585",
+        "lastQueried": 1776601455,
+        "resultCode": 1037,
+        "resultDesc": "Request timed out. The user did not respond."
+    },
+    "ws_CO_19042026152529220111307585": {
+        "status": "Failed",
+        "createdAt": "2026-04-19T14:25:32+02:00",
+        "amount": 440,
+        "phone": "254111307585",
+        "lastQueried": 1776601543,
+        "resultCode": 1037,
+        "resultDesc": "Request timed out. The user did not respond."
+    },
+    "ws_CO_19042026153257702757227470": {
+        "status": "Pending",
+        "createdAt": "2026-04-19T14:33:00+02:00",
+        "amount": 440,
+        "phone": "254757227470"
+    },
+    "ws_CO_20042026134130461111307585": {
+        "status": "Cancelled",
+        "createdAt": "2026-04-20T12:41:31+02:00",
+        "amount": 440,
+        "phone": "254111307585",
+        "lastQueried": 1776681704,
+        "resultCode": 1032,
+        "resultDesc": "Request cancelled by user."
+    },
+    "ws_CO_20042026143755714111307585": {
+        "status": "Pending",
+        "createdAt": "2026-04-20T13:37:57+02:00",
+        "amount": 440,
+        "phone": "254111307585"
+    },
+    "ws_CO_20042026151747334113074424": {
+        "status": "Failed",
+        "createdAt": "2026-04-20T14:17:48+02:00",
+        "amount": 22400,
+        "phone": "254113074424",
+        "lastQueried": 1776687480,
+        "resultCode": 4999,
+        "resultDesc": "The transaction is still under processing"
+    }
+}
