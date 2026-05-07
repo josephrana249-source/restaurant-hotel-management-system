@@ -1,6 +1,5 @@
 # 🏨 RHMS — Restaurant & Hotel Management System
 
-![RHMS Hero Banner](assets/hero.png)
 
 ## 🌟 Overview
 
@@ -53,8 +52,8 @@ Built with a focus on speed, security, and user experience, RHMS bridges the gap
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/joerana829-web/restaurant-and-hotel-management-system.git
-   cd restaurant-and-hotel-management-system
+   git clone https://github.com/josephrana249-source/restaurant-hotel-management-system.git
+   cd restaurant-hotel-management-system
    ```
 
 2. **Move to Htdocs**
@@ -108,10 +107,4 @@ rhms/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Developed with ❤️ by [Joe Rana](https://github.com/joerana829-web)**
+**Developed with ❤️ by [Joe Rana](https://github.com/josephrana249-source)**
